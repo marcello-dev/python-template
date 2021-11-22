@@ -1,0 +1,6 @@
+tasks:
+  - init: |
+      python -m pip install --upgrade pip
+vscode:
+  extensions:
+    - ms-python.python
